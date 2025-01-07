@@ -1,7 +1,7 @@
 ---
 title: "Lab 1 Homework"
 author: "Joel Ledford"
-date: "`r Sys.Date()`"
+date: "2025-01-07"
 output:
   html_document: 
     theme: spacelab
