@@ -15,5 +15,5 @@ This class is designed for students with no background in computer programming, 
 ## About Me
 
 📍 **Location:** UC Davis  
-📚 **Department:** Plant Biology
+📚 **Department:** Plant Biology  
 💡 **Contact:** jmledford@ucdavis.edu
