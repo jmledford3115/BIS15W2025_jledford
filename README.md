@@ -4,7 +4,7 @@ Hi there! 👋 I'm a professor at **UC Davis**, and this GitHub page is where I 
 
 ## What You’ll Find Here
 
-This repository is home to the labs and assignments that arepart of BIS 15L. 
+This repository is home to the labs and assignments that are part of BIS 15L. 
 
 ## About BIS 15L
 
