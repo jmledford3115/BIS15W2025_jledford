@@ -60,7 +60,10 @@ Since you will use your GitHub repository extensively in class, we need to pract
 3. Add your name under `author` at the top of the page.    
 4. Save this file.  
 5. `Knit` the file.    
-6. Use GitHub Desktop to first `Commit to master` and then `Push origin` to your GitHub repository.    
+6. Use GitHub Desktop to first `Commit to master` and then `Push origin` to your GitHub repository.  
+
+Hey Joel make sure to follow these steps at home!!  
+
 
 ## Wrap-up
 Please review the learning goals and be sure to use the code here as a reference.  
